@@ -1,0 +1,229 @@
+{
+  "main": {
+    "name":"Hello I'm Aakash Kedia",
+    "occupation":" ",
+    "description":"A highly motivated, dedicated and detail-oriented professional offering the very best skills in Geographic Information Systems and Database Programming",
+    "image":"propic40.jpg",
+    "bio":"Entry-level professional offering a mix of solid knowledge in geographic information systems and data integrating technologies with in-depth understanding of implemented systems and processes. My skills in this field are scripting, developing databases, data creation and using GIS to make analytical cost-benefit decisions regarding the concerned project. I also possess demonstrated skill in marketing, and customer interactions. ",
+    "bio1":" Moreover my secodary focus being in Digital Arts-Sound Production also helps me enhance my design and creative thinking abilities when it comes to music and otherwise as well. Highly skilled at communicating ideas, working in a cross-functional team while building cohesive relationships with both internal and external partners. Motivated to drive projects from start to finish as part of a dynamic team.",
+    "email": "kediaa@uw.edu",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.aakashkedia.io",
+    "resumedownload":"https://drive.google.com/uc?export=download&id=1Y72w9FgdQnDfWKo7eZ9WQuP0olzUtxr9",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/aakash-kedia-984497139/",
+        "className":"fa fa-linkedin"
+      },
+      
+      {
+        "name":"github",
+        "url":"http://github.com/akiboy96/",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+
+  "resume":{
+    
+    "education":[
+      {
+        "school":"University of Washington",
+        "degree":"Bachelors Degree in Geogrpahic Information Systems •  Minor in Digital Arts - Sound Prodution",
+        "graduated":"June 2018",
+        "description":" "
+      }
+
+    ],
+    "work":[
+      {
+        "company":"King County International Airport/Boeing Field",
+        "title":"Business Information Management (BIM/GIS) Intern",
+        "years":"July 2017 - August 2017",
+        "description":"•  Leveraged excellent research skills in collecting data and performing quality assurance and control (QA/QC) to create business and technical data along with assembling maps. ",
+        "description1":"•  Effectively utilized proficiency with ArcGIS alongside Python, AutoCAD and Microsoft Office to create spreadsheets, compile and manage spatial data, features, attributes, and metadata. ",     
+        "description2": "• Communicated effectively with the cross-functional team while solving ongoing issues with both internal and external stakeholders for business maps as required by the FAA."
+      },
+      {
+        "company":"Haptik.ai",
+        "title":"Growth Hacker",
+        "years":"June 2016 - August 2016",
+        "description":"•  Critically researched and exploited the marketing influences of the social media users in successfully enhancing the company’s growth rate.",
+        "description1":" •  Diligently analyzed research findings by extensively studying SEO and optimizing firm’s download rate.",
+        "description2":"•  Recommended new effective marketing techniques like affiliate marketing to the CEO based on analytics of user audience, and Implemented these techniques to enhance transaction rates."
+      },
+      {
+        "company":"Aayush Tex Dye Pvt Ltd",
+        "title":"Sole Programmer/Develoepr",
+        "years":"June 2015 - August 2015",
+        "description":"•  Developed effiective Graphical User Interface (GUI) software utilizing outstanding proficiency in Java that takes worker attendance upon arrival. ",
+        "description1":" •  Successfully created and utilized parallel implementation to take over previous attendance recording system."
+      }
+    ]
+      
+  },
+
+   "skills": {
+    "skillmessage":"Other than the softwares, frameworks and programming languages listed below, I am highly skilled at maintaining high-level performance under minimum supervision; attention to details and accuracy with analytical problems solving techniques.",    
+      "eachskill":[
+        {
+        "name":"ArcGIS Enterprise",
+        "level":"93%"
+      },
+      {
+        "name":"Java",
+        "level":"87%"
+      },
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"AutoCAD",
+        "level":"70%"
+      },
+      {
+        "name":"PostGreSQL & MySQL",
+        "level":"80%"
+      },
+      {
+        "name":"UNIX",
+        "level":"65%"
+      },
+      {
+        "name":"Apache Hadoop",
+        "level":"65%"
+      },
+      {
+        "name":"HTML5, PHP & CSS",
+        "level":"85%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"60%"
+      },
+      {
+        "name":"Revit",
+        "level":"50%"
+      },
+      {
+        "name":"SuperCollider",
+        "level":"70%"
+      },
+      {
+        "name":"Git",
+        "level":"90%"
+      }
+      ]
+      
+    },
+
+  "portfolio":{
+
+"work":[
+      {
+        "pName":"LiDAR DEM Analysis",
+        "title":"Reasearcher",
+        "years":"March 2018 - June 2018",
+        "description":"•  Assessing LiDAR DEM accuracy for the National Oceanic and Atmospheric Administration by using GIS and LiDAR tools along with stastical methods such as root mean sqaured error. ",
+        "description1":"• Using Python, ArcMap and ERDAS Imagine to select and determine the most accurate points of elevation near the coastline of Washington State that would be further analsyed to check for low-points incase of flooding.",
+        "description2":"• The analysis helps in understanding areas around the Washington coastline that are prone for potential flooding due to their elevation.",
+        "description3":""
+      },
+      {
+        "pName":"An Exploration on Environmental Justice",
+        "title":"Author & Reasearcher",
+        "years":"January 2018 - March 2018",
+        "description":"•  GIS reasearch about the various sorts of environmental hazards that affect low-income and minority population in King County, Washington. The hypothesis is based on environmental hazards being placed in close proximity to susceptible population groups. ",
+        "description2":"• Used statisical softwares such as SPSS and methods like bivariate Pearson Correlation analysis to find similarities between the demographic and environmental hazard indicators.",
+        "description3":"• Found three positive mild correlations between some environmental and demographic indicators such as minority population percentage and their proximity to waste sites, the overall results of the correlation test suggest a rather weak relationship between where susceptible population groups reside and where high exposures to environmental hazard could be prone in King County."
+      },
+      
+      {
+        "pName":"React Website",
+        "title":"Sole Programmer/Develoepr",
+        "years":"April 2018 - May 2018",
+        "description":"•  Built my personal resume website using Javascript, ReactJS and JSON."
+      },
+      {
+        "pName":"Map of Farmer's Market in Seattle",
+        "title":"Sole Programmer/Develoepr",
+        "years":"September 2017 - December 2017",
+        "description":"•  Created a website using Javascript, HTML and CSS that gives information on an interactive map of the farmers market that take place in Seattle every weekend. ",
+        "description1":"• Used Google Maps API to find and obtain the information regarding the farmers market that take place in Seattle and used leaflet capabilities to display the points "
+        },
+      {
+        "pName":"SuperCollider Sound track",
+        "title":"Producer",
+        "years":"April 2017 - June 2017",
+        "description":"•  A composition made in SuperCollider which are based on sounds that are present in Mutations by Jean Clause Risset. Recreated sounds using techniques like Amplitude and Frequency Modulation along with pitch-shifting and time-streching to enchance instrument sounds and create polyrhythmic similarities."
+      }
+    ],
+
+    "projects": [
+      {
+        "title":"LiDAR DEM Analysis",
+        "category":"",
+        "image":"polygonless40PNG.png",
+        "url":"https://www.drive.google.com"
+      },
+      {
+        "title":"An Exploration on Environmental Justice",
+        "category":"",
+        "image":"ej.png",
+        "url":"http://www.drive.google.com"
+      },
+      {
+        "title":"Farmer's Market",
+        "category":"",
+        "image":"fm.png",
+        "url":"https://github.com/akiboy96/Farmers-MarketKC"
+      },
+      {
+        "title":"React Resume Website",
+        "category":"",
+        "image":"rw.png",
+        "url":"http://www.github.com/akiboy96/resume-website-react"
+      },
+      {
+        "title":"Trigonometric Calculator with UI",
+        "category":"",
+        "image":"atc_.png",
+        "url":"https://github.com/akiboy96/trigonometric-calculator-UI"
+      },
+      {
+        "title":"Java Attendance System",
+        "category":"",
+        "image":"saket.png",
+        "url":"https://github.com/akiboy96/Aakash_Java_Attendance"
+      },
+      {
+        "title":"SuperCollider Sound Track",
+        "category":"",
+        "image":"sc1.png",
+        "url":"https://github.com/akiboy96/SuperCollider-Sound-track-"
+      },
+      {
+        "title":"Address-Book-SQL",
+        "category":"",
+        "image":"absql.jpg",
+        "url":"https://github.com/akiboy96/Address-Book-Database"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      
+    ]
+  }
+}

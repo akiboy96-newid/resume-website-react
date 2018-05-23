@@ -1,0 +1,135 @@
+{
+  "main": {
+    "name":"Aakash Kedia",
+    "occupation":"GIS Analyst/Programmer",
+    "description":"A highly motivated, dedicated and detail-oriented professional offering the very best skills in Geographic Information Systems and Database Scirpitng. I have the abilities to maintain high-level performance under minimum supervision; attention to details and accuracy with analytical problems solving techniques.",
+    "image":"profilepic.jpg",
+    "bio":"Entry-level professional offering a mix of solid knowledge in geographic information systems and data integrating technologies with in-depth understanding of implemented systems and processes. My skills in this field are scripting, developing databases, data creation and using GIS to make analytical cost-benefit decisions regarding the concerned project. I also possess demonstrated skill in marketing, and customer interactions. \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n Moreover my secodary focus being in Digital Arts-Sound Production also helps me enhance my design and creative thinking abilities when it comes to music and otherwise as well. Highly skilled at communicating ideas, working in a cross-functional team while building cohesive relationships with both internal and external partners. Motivated to drive projects from start to finish as part of a dynamic team.",
+    "email": "kediaa@uw.edu",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.aakashkedia.io",
+    "resumedownload":"drive.google.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/aakash-kedia-984497139/",
+        "className":"fa fa-linkedin"
+      },
+      
+      {
+        "name":"github",
+        "url":"http://github.com/akiboy96/",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Geographic Information Systems and data integrating technologies with in-depth understanding of implemented systems and processes. My skills in this field are scripting, developing databases, data creation and using GIS to make analytical cost-benefit decisions regarding the concerned project.",
+    "education":[
+      {
+        "school":"University of Washington",
+        "degree":"Bachelors Degree in Geogrpahic Information Systems",
+        "graduated":"June 2018",
+        "description":"Coursework "
+      }
+
+    ],
+    "work":[
+      {
+        "company":"King County International Airport/Boeing Field",
+        "title":"Business Information Management Intern",
+        "years":"July 2017 - August 2017",
+        "description":"•  Leveraged excellent research skills in collecting data and performing quality assurance and control (QA/QC) to create business and technical data along with assembling maps. \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n •  Effectively utilized proficiency with ArcGIS alongside Python, AutoCAD and Microsoft Office to create spreadsheets, compile and manage spatial data, features, attributes, and metadata. \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n\r\n \r\n \r\n\r\n \r\n \r\n \r\n \r\n\r\n \r\n \r\n \r\n \r\n\r\n \r\n \r\n \r\n \r\n\r\n \r\n \r\n \r\n \r\n\r\n \r\n \r\n  \r\n \r\n\r\n \r\n \r\n \r\n \r\n\r\n \r\n \r\n \r\n  \r\n \r\n \r\n \r\n • Communicated effectively with the cross-functional team while solving ongoing issues with both internal and external stakeholders for business maps as required by the FAA."
+      },
+      {
+        "company":"Haptik.ai",
+        "title":"Growth Hacker",
+        "years":"June 2016 - August 2016",
+        "description":"•  Critically researched and exploited the marketing influences of the social media users in successfully enhancing the company’s growth rate. \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n •  Diligently analyzed research findings by extensively studying SEO and optimizing firm’s download rate. \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n\r\n \r\n \r\n\r\n \r\n \r\n \r\n \r\n\r\n \r\n \r\n \r\n \r\n\r\n \r\n \r\n \r\n \r\n\r\n \r\n \r\n \r\n \r\n\r\n \r\n \r\n  \r\n \r\n\r\n \r\n \r\n \r\n \r\n\r\n \r\n\r\n •  Recommended new effective marketing techniques like affiliate marketing to the CEO based on analytics of user audience, and Implemented these techniques to enhance transaction rates."
+      },
+      {
+        "company":"Saket Tex Dye Pvt Ltd",
+        "title":"Sole Programmer/Develoepr",
+        "years":"June 2015 - August 2015",
+        "description":"•  Developed effiective Graphical User Interface (GUI) software utilizing outstanding proficiency in Java that takes worker attendance upon arrival. \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n\r\n \r\n \r\n\r\n \r\n \r\n •  Successfully created and utilized parallel implementation to take over previous attendance recording system."
+      }
+    ],
+
+
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      
+    ]
+  }
+}
